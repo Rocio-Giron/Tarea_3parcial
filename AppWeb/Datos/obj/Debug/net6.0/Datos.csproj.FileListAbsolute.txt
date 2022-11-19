@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\AppWeb\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\pc\source\repos\AppWeb\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\pc\source\repos\AppWeb\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\pc\source\repos\AppWeb\Datos\bin\Debug\net6.0\Modelos.dll
+C:\Users\pc\source\repos\AppWeb\Datos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\pc\source\repos\AppWeb\Datos\obj\Debug\net6.0\ref\Datos.dll
